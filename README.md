@@ -1,6 +1,6 @@
 This project is my first approach toward web development. It is a simple static e-commerce webpage built using HTML, CSS, and JavaScript.
 
-📌 What I Learned
+📌 What I Learned <br>
 How to structure a webpage using HTML tags.
 How to style and cascade CSS into HTML.
 How to target and manipulate HTML elements using JavaScript.
