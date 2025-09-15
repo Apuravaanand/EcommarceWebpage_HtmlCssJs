@@ -5,6 +5,7 @@ How to structure a webpage using HTML tags.<br>
 How to style and cascade CSS into HTML.<br>
 How to target and manipulate HTML elements using JavaScript.<br>
 Basics of responsive design and simple user interactions.<br>
+
 🖼️ Features<br>
 Basic product listing layout.
 <br>Styled with custom CSS for a clean look.
@@ -15,7 +16,7 @@ Basic product listing layout.
 <br>CSS3 – Styling
 <br>JavaScript (Vanilla JS) – Interactivity
 
-🚀 Next Steps
-Add more pages (Product details, Cart, Checkout).
-Make the design responsive for mobile devices.
-Add dynamic features (login, product API, cart storage) when moving toward MERN stack.
+<br>🚀 Next Steps
+<br>Add more pages (Product details, Cart, Checkout).
+<br>Make the design responsive for mobile devices.
+<br>Add dynamic features (login, product API, cart storage) when moving toward MERN stack.
